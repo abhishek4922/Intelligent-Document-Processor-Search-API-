@@ -1,0 +1,12 @@
+pdfplumber 
+python-docx
+beautifulsoup4
+#  will use pdfpulumber for .pdf
+# python-docx for .docx
+# email+bs4 for .eml
+#open for .txt
+
+spacy
+# python -m spacy download en_core_web_sm
+
+
