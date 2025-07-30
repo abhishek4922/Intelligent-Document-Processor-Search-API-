@@ -21,5 +21,3 @@ streamlit
 sqlalchemy
 aiosqlite
 
-# mongodb+srv://abhishekjain4760:ppVdytbRkMAY1N8I@cluster0.bxrkdqm.mongodb.net/
-# mongodb+srv://abhishekjain4s760:<db_password>@cluster0.bxrkdqm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
