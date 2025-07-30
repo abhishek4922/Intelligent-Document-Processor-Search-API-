@@ -1,4 +1,4 @@
-pdfplumber 
+pdfplumber
 python-docx
 beautifulsoup4
 #  will use pdfpulumber for .pdf
@@ -9,4 +9,17 @@ beautifulsoup4
 spacy
 # python -m spacy download en_core_web_sm
 
+scikit-learn
+pandas
+joblib
 
+pymongo
+fastapi
+python-dotenv
+python-multipart
+streamlit
+sqlalchemy
+aiosqlite
+
+# mongodb+srv://abhishekjain4760:ppVdytbRkMAY1N8I@cluster0.bxrkdqm.mongodb.net/
+# mongodb+srv://abhishekjain4s760:<db_password>@cluster0.bxrkdqm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0

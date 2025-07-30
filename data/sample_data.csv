@@ -1,0 +1,9 @@
+text,label
+"Name: Riya Sharma\nEmail: riya.sharma@example.com\nSkills: Python, SQL",resume
+"Name: Rahul Verma\nEmail: rahul.verma@example.com\nSkills: Java, C++, HTML",resume
+"Name: Priya Mehta\nExperience: 5 years\nExpertise: Data Science, ML",resume
+"Name: Aarav Gupta\nProjects: AI Chatbot, Resume Parser\nLinkedIn: linkedin.com/in/aarav",resume
+"Invoice Number: INV-001\nTotal Amount: $5000\nDue Date: 2025-08-01",invoice
+"Invoice ID: 12345\nAmount Due: ₹12,000\nDue Date: 2025-09-15",invoice
+"Bill To: Acme Corp\nInvoice #: 4567\nAmount: $3000",invoice
+"Payment Terms: Net 30\nTotal: $1,200\nInvoice Number: INV-789",invoice
